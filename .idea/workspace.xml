@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62809ef9-a44e-405b-a5f7-4fb772992eb5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/practice/001-web-structure/mi.com.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/practice/001-web-structure/tmall.com.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/practice/001-web-structure/niu.com.txt" afterPath="$PROJECT_DIR$/practice/001-web-structure/niu.com.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,17 +27,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="niu.com.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="niu.com.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practice/001-web-structure/niu.com.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            <state relative-caret-position="171">
+              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mi.com.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mi.com.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice/001-web-structure/mi.com.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
@@ -67,9 +66,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/practice/001/readme.txt" />
-        <option value="$PROJECT_DIR$/practice/001-web-structure/niu.com.txt" />
         <option value="$PROJECT_DIR$/practice/001-web-structure/mi.com.txt" />
         <option value="$PROJECT_DIR$/practice/001-web-structure/tmall.com.txt" />
+        <option value="$PROJECT_DIR$/practice/001-web-structure/niu.com.txt" />
       </list>
     </option>
   </component>
@@ -162,12 +161,12 @@
       <workItem from="1520688484758" duration="1954000" />
       <workItem from="1520691625284" duration="3799000" />
       <workItem from="1520696863121" duration="3275000" />
-      <workItem from="1520853748290" duration="1837000" />
+      <workItem from="1520853748290" duration="2120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10865000" />
+    <option name="totallyTimeSpent" value="11148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1092" y="102" width="1400" height="960" extended-state="0" />
@@ -235,14 +234,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/001-web-structure/niu.com.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/001-web-structure/tmall.com.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -255,6 +246,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/001-web-structure/niu.com.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
           <folding />
         </state>
       </provider>
