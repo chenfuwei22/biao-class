@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62809ef9-a44e-405b-a5f7-4fb772992eb5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/practice/002-core-tag/niu.com.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/practice/002-core-tag/xiaomi.com.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/practice/002-core-tag/zhihu.com.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/practice/002-core-tag/index.html" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="niu.com.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="niu.com.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice/002-core-tag/niu.com.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
@@ -62,8 +60,18 @@
       <file leaf-file-name="xiaomi.com.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice/002-core-tag/xiaomi.com.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
+            <state relative-caret-position="478">
               <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhihu.com.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice/002-core-tag/zhihu.com.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -101,6 +109,7 @@
         <option value="$PROJECT_DIR$/practice/001-web-structure/tmall.com.txt" />
         <option value="$PROJECT_DIR$/practice/002-core-tag/index.html" />
         <option value="$PROJECT_DIR$/practice/002-core-tag/xiaomi.com.html" />
+        <option value="$PROJECT_DIR$/practice/002-core-tag/zhihu.com.html" />
       </list>
     </option>
   </component>
@@ -111,8 +120,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="527" />
-    <option name="y" value="87" />
+    <option name="x" value="1208" />
+    <option name="y" value="138" />
     <option name="width" value="1400" />
     <option name="height" value="960" />
   </component>
@@ -216,15 +225,15 @@
       <workItem from="1520919671995" duration="437000" />
       <workItem from="1520920161080" duration="1917000" />
       <workItem from="1520931241407" duration="12198000" />
-      <workItem from="1521013676452" duration="1800000" />
+      <workItem from="1521013676452" duration="2536000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40006000" />
+    <option name="totallyTimeSpent" value="40742000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="527" y="87" width="1400" height="960" extended-state="0" />
+    <frame x="1208" y="138" width="1400" height="960" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.091763005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -490,18 +499,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/practice/002-core-tag/niu.com.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practice/002-core-tag/xiaomi.com.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
+        <state relative-caret-position="478">
           <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/002-core-tag/niu.com.html">
+    <entry file="file://$PROJECT_DIR$/practice/002-core-tag/zhihu.com.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+        <state relative-caret-position="220">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
