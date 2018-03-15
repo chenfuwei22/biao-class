@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62809ef9-a44e-405b-a5f7-4fb772992eb5" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/practice/tmp/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/practice/002-core-tag/lianjia.com.html" afterPath="$PROJECT_DIR$/practice/002-core-tag/lianjia.com.html" />
       <change beforePath="$PROJECT_DIR$/practice/002-core-tag/xiaomi.com.html" afterPath="$PROJECT_DIR$/practice/002-core-tag/xiaomi.com.html" />
@@ -58,11 +59,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xiaomi.com.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="xiaomi.com.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice/002-core-tag/xiaomi.com.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+            <state relative-caret-position="360">
+              <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/tmp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -78,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lianjia.com.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="lianjia.com.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practice/002-core-tag/lianjia.com.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="38" column="10" lean-forward="false" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+            <state relative-caret-position="471">
+              <caret line="86" column="45" lean-forward="false" selection-start-line="86" selection-start-column="45" selection-end-line="86" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -120,8 +131,9 @@
         <option value="$PROJECT_DIR$/practice/001-web-structure/tmall.com.txt" />
         <option value="$PROJECT_DIR$/practice/002-core-tag/index.html" />
         <option value="$PROJECT_DIR$/practice/002-core-tag/zhihu.com.html" />
-        <option value="$PROJECT_DIR$/practice/002-core-tag/lianjia.com.html" />
         <option value="$PROJECT_DIR$/practice/002-core-tag/xiaomi.com.html" />
+        <option value="$PROJECT_DIR$/practice/tmp/index.html" />
+        <option value="$PROJECT_DIR$/practice/002-core-tag/lianjia.com.html" />
       </list>
     </option>
   </component>
@@ -132,10 +144,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1212" />
-    <option name="y" value="168" />
+    <option name="x" value="731" />
+    <option name="y" value="146" />
     <option name="width" value="1400" />
-    <option name="height" value="960" />
+    <option name="height" value="953" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -191,6 +203,12 @@
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="002-core-tag" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="biao-class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="biao-class" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -216,6 +234,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.lianjia.com.html">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/biao-class/practice/tmp/index.html" />
+    <configuration name="lianjia.com.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/biao-class/practice/002-core-tag/lianjia.com.html" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.lianjia.com.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.lianjia.com.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -238,15 +270,15 @@
       <workItem from="1520920161080" duration="1917000" />
       <workItem from="1520931241407" duration="12198000" />
       <workItem from="1521013676452" duration="14419000" />
-      <workItem from="1521098858150" duration="8325000" />
+      <workItem from="1521098858150" duration="18033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60950000" />
+    <option name="totallyTimeSpent" value="70658000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1212" y="168" width="1400" height="960" extended-state="0" />
+    <frame x="731" y="146" width="1400" height="953" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.091763005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -256,7 +288,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23404256" sideWeight="0.4913295" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23599523" sideWeight="0.4913295" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -584,6 +616,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/practice/002-core-tag/xiaomi.com.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practice/001-web-structure/tmall.com.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -592,18 +632,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/002-core-tag/lianjia.com.html">
+    <entry file="file://$PROJECT_DIR$/practice/tmp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="38" column="10" lean-forward="false" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        <state relative-caret-position="300">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/002-core-tag/xiaomi.com.html">
+    <entry file="file://$PROJECT_DIR$/practice/002-core-tag/lianjia.com.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        <state relative-caret-position="471">
+          <caret line="86" column="45" lean-forward="false" selection-start-line="86" selection-start-column="45" selection-end-line="86" selection-end-column="45" />
           <folding />
         </state>
       </provider>
